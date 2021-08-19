@@ -1,0 +1,17 @@
+.key{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.key div{
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.key div:hover{
+    color: lightblue;
+}

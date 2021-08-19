@@ -1,0 +1,16 @@
+.screen{
+    width: 100%;
+    border-bottom: 2px solid lightblue;
+    text-align: right;
+    padding: 20px;
+    padding-top: 100px;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+.screen p{
+    margin: 5px;
+}
+
+.size-big{
+    font-size: 38px;
+}
